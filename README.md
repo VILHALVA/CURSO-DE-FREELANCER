@@ -2,12 +2,7 @@
 👨‍⚖️FREELANCER É UM PROFISSIONAL AUTÔNOMO QUE OFERECE SEUS SERVIÇOS DE FORMA INDEPENDENTE, SEM VÍNCULO EMPREGATÍCIO COM UMA EMPRESA ESPECÍFICA. ELE TRABALHA POR PROJETOS OU TAREFAS, GERALMENTE CONTRATADO POR OUTRAS EMPRESAS OU INDIVÍDUOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=FREELANCER)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLx0RyF8qXKwcVBCepO89bHE1Olw0zg7wA&si=5rE7qBBgnFRneGMD)
-
-<img src="https://freelancer.com.br/images/main-page/hit-card1.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 O trabalho freelancer, também conhecido como trabalho autônomo ou trabalho por conta própria, é um modelo de emprego que difere significativamente do emprego tradicional. No trabalho freelance, os profissionais contratam seus serviços diretamente para clientes, empresas ou projetos específicos, em vez de serem contratados como funcionários em tempo integral.
