@@ -1,10 +1,9 @@
 # CURSO DE FREELANCER
 👨‍⚖️FREELANCER É UM PROFISSIONAL AUTÔNOMO QUE OFERECE SEUS SERVIÇOS DE FORMA INDEPENDENTE, SEM VÍNCULO EMPREGATÍCIO COM UMA EMPRESA ESPECÍFICA. ELE TRABALHA POR PROJETOS OU TAREFAS, GERALMENTE CONTRATADO POR OUTRAS EMPRESAS OU INDIVÍDUOS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLx0RyF8qXKwcVBCepO89bHE1Olw0zg7wA&si=5rE7qBBgnFRneGMD)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 O trabalho freelancer, também conhecido como trabalho autônomo ou trabalho por conta própria, é um modelo de emprego que difere significativamente do emprego tradicional. No trabalho freelance, os profissionais contratam seus serviços diretamente para clientes, empresas ou projetos específicos, em vez de serem contratados como funcionários em tempo integral.
 
 Aqui estão alguns pontos-chave que definem o conceito de trabalho freelancer:
@@ -33,8 +32,8 @@ Enquanto o trabalho freelance oferece a oportunidade de ganhar um bom dinheiro, 
 **Conclusão:**
 O trabalho freelancer é um modelo de emprego que oferece uma série de vantagens, como autonomia, flexibilidade e uma ampla variedade de oportunidades. No entanto, também requer autogerenciamento e a capacidade de lidar com a instabilidade financeira. É importante para os aspirantes a freelancers compreenderem os aspectos essenciais desse conceito e considerar se ele se alinha com seus objetivos e estilo de vida profissional.
 
-# CARACTERISTICAS:
-## Características Positivas:
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Autonomia e Flexibilidade:** Os freelancers têm a liberdade de escolher quando, onde e como trabalhar. Isso permite uma melhor conciliação entre trabalho e vida pessoal.
 
 2. **Variedade de Projetos:** Os freelancers podem trabalhar em uma ampla variedade de projetos, o que pode resultar em uma experiência diversificada e aquisição de habilidades em várias áreas.
@@ -47,7 +46,7 @@ O trabalho freelancer é um modelo de emprego que oferece uma série de vantagen
 
 6. **Aprendizado Contínuo:** Devido à diversidade de projetos, os freelancers estão constantemente adquirindo novas habilidades e conhecimentos, o que pode impulsionar seu desenvolvimento profissional.
 
-## Características Negativas:
+### NEGATIVAS:
 1. **Instabilidade Financeira:** A renda de um freelancer pode ser irregular, com períodos de abundância e escassez. A falta de benefícios como salário fixo, seguro de saúde e aposentadoria pode ser desafiadora.
 
 2. **Autogerenciamento:** Os freelancers são responsáveis por gerenciar todos os aspectos de seus negócios, incluindo administração, finanças e marketing, o que pode ser sobrecarregante para alguns.
@@ -60,5 +59,9 @@ O trabalho freelancer é um modelo de emprego que oferece uma série de vantagen
 
 6. **Insegurança Jurídica:** A legislação trabalhista pode variar em diferentes países e regiões, o que pode criar incertezas legais para freelancers em relação aos seus direitos e obrigações.
 
-## Conclusão:
+## CONCLUSÃO:
 O trabalho freelancer oferece inúmeras vantagens, como autonomia e flexibilidade, mas também apresenta desafios, incluindo instabilidade financeira e a necessidade de autogerenciamento. É importante para aqueles que desejam seguir esse caminho considerar cuidadosamente suas metas pessoais e profissionais antes de se comprometerem com a carreira freelance. Por meio de uma abordagem estratégica e planejamento adequado, é possível aproveitar ao máximo as características positivas e mitigar os desafios associados ao trabalho freelancer.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CONEXÃO FREELANCER"](https://youtube.com/playlist?list=PLx0RyF8qXKwcVBCepO89bHE1Olw0zg7wA&si=5rE7qBBgnFRneGMD)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
